@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+title: Iryna Yavorska
+description: PhD in Psychology / Systems Neuroscience
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
