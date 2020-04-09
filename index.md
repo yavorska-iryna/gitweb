@@ -18,12 +18,12 @@ With unique opportunity to control sensory information, sensory neuroscience pro
 
 ## Teaching
 * Instructor 
-#* Biopsychology
-#* Music and the Brain
+* * Biopsychology
+* * Music and the Brain
 
 * Teaching assistant
-#* Biopsychology
-#* Music and the Brain
-#* Matlab
-#* Brain and Mind
+* * Biopsychology
+* * Music and the Brain
+* * Matlab
+* * Brain and Mind
 
