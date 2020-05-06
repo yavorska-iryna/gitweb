@@ -1,5 +1,6 @@
 ## About Me
-I am a postdoctoral researcher in the Wehr lab, University of Oregon studying the role of inhibitory interneurons in processing sound.  
+I am a postdoctoral researcher in the Wehr lab, University of Oregon studying the role of inhibitory interneurons in processing sound.
+(she/her)
 
 ## Research
 My research focuses on how diverse neuronal populations make up local cortical circuits
