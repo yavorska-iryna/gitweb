@@ -1,5 +1,5 @@
 ## About Me
-I am a postdoctoral researcher in the Wehr lab, University of Oregon studying the role of inhibitory interneurons in processing sound.
+I am a scientist on the Mindscope team at the Allen Institute. I received my Ph.D. in Psychology from the University of Oregon in 2019. Advised by Mike, in the Wehr lab I studied the role of inhibitory interneurons in processing sound.
 (she/her)
 
 ## Research
